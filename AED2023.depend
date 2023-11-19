@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700061299 source:d:\codeblock projects\aed.c 2023\aed2023\lig4algoritmos.c
+	"Lig4.h"
+	<stdio.h>
+
+1700060806 d:\codeblock projects\aed.c 2023\aed2023\lig4.h
+
+1700060806 source:d:\codeblock projects\aed.c 2023\aed2023\main.c
+	"Lig4.h"
+
